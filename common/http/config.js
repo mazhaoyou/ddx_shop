@@ -1,7 +1,7 @@
 export default {
 	config: {
 		/* 请求接口通用地址 */
-		baseUrl: "http://188.131.174.180:3001/api",
+		baseUrl: "http://172.16.6.242:3001/api",
 		header: {
 			'Content-Type': 'application/json'
 		},

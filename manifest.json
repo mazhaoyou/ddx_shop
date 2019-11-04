@@ -1,5 +1,5 @@
 {
-    "name" : "电商模板 更新下单流程、分类、列表",
+    "name" : "B展通",
     "appid" : "__UNI__9AA3DD3",
     "description" : "",
     "versionName" : "1.0.0",
@@ -55,7 +55,7 @@
     /* 快应用特有相关 */
     "mp-weixin" : {
         /* 小程序特有相关 */
-		"usingComponents":true,
+        "usingComponents" : true,
         "appid" : "",
         "setting" : {
             "urlCheck" : true

@@ -19,16 +19,16 @@
 			</view>
 		</view>
 		<!-- 分类 -->
-		<view class="cate-section">
+		<!-- <view class="cate-section">
 			<view class="cate-item" v-for="(item,index) in channelList" :key="item.id" @tap="channelClick(item.url)" >
 				<image :src="item.icon_url"></image>
 				<text>{{item.name}}</text>
 			</view>
-		</view>
+		</view> 
 		
 		<view class="ad-1">
 			<image src="/static/temp/ad1.jpg" mode="scaleToFill"></image>
-		</view>
+		</view>-->
 		
 		<!-- 秒杀楼层开始 -->
 		<view class="seckill-section m-t">
@@ -56,7 +56,7 @@
 		</view>
 		<!-- 秒杀楼层结束 -->
 		<!-- 团购楼层开始 -->
-		<view class="f-header m-t">
+	<!-- 	<view class="f-header m-t">
 			<image src="/static/temp/h1.png"></image>
 			<view class="tit-box">
 				<text class="tit">精品团购</text>
@@ -109,7 +109,7 @@
 				</swiper-item>
 
 			</swiper>
-		</view>
+		</view> -->
 		<!-- 团购楼层开始结束 -->
 		
 		
